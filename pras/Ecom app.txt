@@ -1,0 +1,7 @@
+Ecom app
+1)roll no
+2)name
+3)age
+4)family
+5)search
+6)college
